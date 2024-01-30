@@ -25,9 +25,4 @@ Key Features:
 
 - Educational Value:** Whether you're a developer looking to write Solidity code or a blockchain enthusiast exploring Ethereum transactions, Krypt offers valuable insights and hands-on learning opportunities.
 
-Get Started:
-Embark on your Web3 journey with Krypt. Visit our [YouTube channel](#) to witness the app in action and explore the limitless possibilities of blockchain technology.
-
-Note:
-Krypt is an evolving project, and your feedback is crucial to our continuous improvement. Feel free to contribute, report issues, or suggest enhancements. Together, let's shape the future of Web3!
 
